@@ -1,0 +1,8 @@
+extends: airbnb-base
+
+rules:
+  no-var: off
+  no-underscore-dangle: off
+  no-console: off
+  class-methods-use-this: off
+  no-param-reassign: off
